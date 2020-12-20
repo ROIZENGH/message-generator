@@ -1,5 +1,5 @@
 # Message Generator
-> Program in JS that generates random sentences.
+> Program in JS that generates random messages.
 
 ## Table of contents
 * [General info](#general-info)
